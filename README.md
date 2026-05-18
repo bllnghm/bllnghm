@@ -1,16 +1,17 @@
+  <p align="center">
+<img src="MISCHA BANNER.png" width="830" alt="Readme Layout">
+    
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fa2wjtsk7gvujtnotvmwl77jjy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&profanity=false&bar_color=444444&bar_color_cover=false"
-      width="398"
-    />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C0D0AF6&width=435&lines=-+That.+Was.+DOPE!+YO!+;-+Ricky%2C+you+play+this%3F+The...;-+Squeeze-keys%3F;-+Mad-wicked+awesome+!!!" alt="Typing SVG" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
 "𝘚𝘰 𝘸𝘦 𝘣𝘦𝘢𝘵 𝘰𝘯, 𝘣𝘰𝘢𝘵𝘴 𝘢𝘨𝘢𝘪𝘯𝘴𝘵 𝘵𝘩𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵, 𝘣𝘰𝘳𝘯𝘦 𝘣𝘢𝘤𝘬 𝘤𝘦𝘢𝘴𝘦𝘭𝘦𝘴𝘴𝘭𝘺 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦 𝘱𝘢𝘴𝘵."<br>
 || 𝘮𝘺 12𝘢𝘮 , 𝘺𝘰𝘶𝘳 9𝘢𝘮 ||<br>
-------------------------------------------------------------------
+------------------------------------------------------------------<br>
+ !!! GITHUB REWORK IS A WORK IN PROGRESS !!!
 </p>
 ‎
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="https://64.media.tumblr.com/46c0159d9f2d975d38e342df5376a802/tumblr_mn1g2upevM1sqgfcvo1_500.gif" style="max-width: 100%;"></a> <br/>
@@ -39,6 +40,8 @@
 <p>close friends can call me matt ! </p>
 <p>as much as possible please don't copy my ponies! inspo is fine, as long as it's not exactly alike  </p>
 
+<p>banner art does NOT belong to me! mischa & noel is made by maicaronns on tumblr</p>
+
 <hr style="border:0; border-top:1px solid #493e4d; margin:10px 0;">
 
 <p><b>GAMES:</b> Marvel Rivals, Deltarune, Undertale, Dead by Daylight, Life is Strange, Portal, Tekken 8, Minecraft, Animal Crossing, Red Dead Redemption</p>
@@ -54,5 +57,5 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="tiny_nischa.png" width="200">
+  <p align="center">
+<img src="NOEL BANNER.png" width="830" alt="Readme Layout">
