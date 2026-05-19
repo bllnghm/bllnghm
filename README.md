@@ -35,10 +35,10 @@
 
 <div style="color:#ded9bf; font-size:13px; line-height:1.5; text-align:left; margin-top:10px;">
 
-<p>I REALLY super love nischa. my children i love them</p>
-<p>I love my friends so much! they're so peak <3 shoutout to jude my twin frfr </p>
-<p>close friends can call me matt ! </p>
+<p>i love ride the cyclone! mischa's my favorite if you already couldn't tell </p>
+<p>I love my friends so much! they're so peak <3 shoutout to jude my twin fr </p>
 <p>as much as possible please don't copy my ponies! inspo is fine, as long as it's not exactly alike  </p>
+<p>talk to me about anything! i often listen more than i talk</p>
 
 <p>banner art does NOT belong to me! mischa & noel is made by maicaronns on tumblr</p>
 
