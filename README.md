@@ -1,7 +1,7 @@
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="judebanner2.png" width="600"></a> <br/>
 <p align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=E68742&width=435&lines=Im+never+too+interested+in+what+people;say+because%2C+honestly%2C++peoples+opinion;change+like+the+weather.;One+minute+you're+the+best%2C+;the+next+you're+not+ready.." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=E68742&width=435&lines=Im+never+too+interested+in+what+people;say+because%2C+honestly%2C++peoples+opinion;change+like+the+weather.;One+minute+you're+the+best%2C+;the+next+you're+not+ready." alt="Typing SVG" />
 </p>
 
 <p align="center">
