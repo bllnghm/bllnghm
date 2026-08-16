@@ -1,61 +1,38 @@
-  <p align="center">
-<img src="MISCHA BANNER.png" width="830" alt="Readme Layout">
-    
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="judebanner2.png" width="600"></a> <br/>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C0D0AF6&width=435&lines=-+That.+Was.+DOPE!+YO!+;-+Ricky%2C+you+play+this%3F+The...;-+Squeeze-keys%3F;-+Mad-wicked+awesome+!!!" alt="Typing SVG" alt="Typing SVG" />
-  </a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=E68742&width=435&lines=Im+never+too+interested+in+what+people;say+because%2C+honestly%2C++peoples+opinion;change+like+the+weather.;One+minute+you're+the+best%2C+;the+next+you're+not+ready.." alt="Typing SVG" />
 </p>
 
 <p align="center">
-"𝘚𝘰 𝘸𝘦 𝘣𝘦𝘢𝘵 𝘰𝘯, 𝘣𝘰𝘢𝘵𝘴 𝘢𝘨𝘢𝘪𝘯𝘴𝘵 𝘵𝘩𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵, 𝘣𝘰𝘳𝘯𝘦 𝘣𝘢𝘤𝘬 𝘤𝘦𝘢𝘴𝘦𝘭𝘦𝘴𝘴𝘭𝘺 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦 𝘱𝘢𝘴𝘵."<br>
-|| 𝘮𝘺 12𝘢𝘮 , 𝘺𝘰𝘶𝘳 9𝘢𝘮 ||<br>
-------------------------------------------------------------------<br>
- !!! GITHUB REWORK IS A WORK IN PROGRESS !!!
-</p>
-‎
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="https://64.media.tumblr.com/46c0159d9f2d975d38e342df5376a802/tumblr_mn1g2upevM1sqgfcvo1_500.gif" style="max-width: 100%;"></a> <br/>
-
-
-</p>
+  </p>
 <div align="center" dir="auto">
   <a href="https://theangriestboyintown.straw.page/"/>strawpage</a> ⸝⸝
   <a href="https://pronouns.cc/@mischabachinski.">pronouns.cc</a> ⸝⸝
   <a href="https://guns.lol/robinafterhours">guns.lol</a> ⸝⸝
- <a href="https://robinsturr.atabook.org/">atabook</a>
+ <a href="https://robinsturr.atabook.org/">atabook</a> <br>
 
-<p align="center" dir="auto"> 
+─────────────── ⋆⋅𖤓⋅⋆ ──────────────<br>
+ 
+</p>
 
-<table width="520" border="1" cellpadding="10" cellspacing="0" align="center">
-<tr>
-<td>
+<details align="center">
+<summary> ${\textsf{\color{#803d29}⋆ ──ㅤclick me}}$ </summary> as much as possible please don't copy my ponies. inspo is fine, as long as it's not exactly alike</p>
+sign ata and send gimmicks for a cookie </p>
+c+h freely unless stated otherwise! </p>
+banner art does not belong to me </details>
 
-<details>
-<summary style="font-weight:600; color:#4db6ac; cursor:pointer;">psst click me</summary>
+<details align="center">
+<summary> ${\textsf{\color{#9e592e}⋆ ──ㅤbyi}}$ </summary>  i am 18! so if you're below 17 please dont try to be weird with me! </p>
+i can usually come off as a bit energetic sometimes, but most of the time i'm quiet </p>
+i usually just get on to be with my friend jude or with my friendgroup 🥹🥹 but feel free to interact whenever!! i appreciate if you can w2i so i can still get back to you when i come back
+</details> 
 
-<div style="color:#ded9bf; font-size:13px; line-height:1.5; text-align:left; margin-top:10px;">
-
-<p>i love ride the cyclone! mischa's my favorite if you already couldn't tell </p>
-<p>I love my friends so much! they're so peak <3 shoutout to jude my twin fr </p>
-<p>as much as possible please don't copy my ponies! inspo is fine, as long as it's not exactly alike  </p>
-<p>talk to me about anything! i often listen more than i talk</p>
-
-<p>banner art does NOT belong to me! mischa & noel is made by maicaronns on tumblr</p>
-
-<hr style="border:0; border-top:1px solid #493e4d; margin:10px 0;">
-
-<p><b>GAMES:</b> Marvel Rivals, Deltarune, Undertale, Dead by Daylight, Life is Strange, Portal, Tekken 8, Minecraft, Animal Crossing, Red Dead Redemption</p>
-
-<p><b>TV SHOWS:</b> Community, House MD, Supernatural, The Boys, Deadly Class</p>
-
-<p><b>MUSICALS:</b> Ride the Cyclone, The Great Gatsby, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
-
-</div>
-</details>
-
-</td>
-</tr>
-</table>
-
-  <p align="center">
-<img src="NOEL BANNER.png" width="830" alt="Readme Layout">
+<details align="center">
+<summary> ${\textsf{\color{#bd8f4a}⋆ ──ㅤdni}}$ </summary> > proshippers, darkshippers, etc </p>
+homophobic, transphobic, or anything anti-lgbt </p>
+racist, sexist, ableist, misogynist </p>
+if you're just coming here to poke fun at me or any of my friend's interests </p>
+people who support incest, pedophilia or anything alike (fiction or non-fiction) </p>
+if you're in the "protree" at the safe server 
+</details> 
