@@ -18,7 +18,7 @@
 
 <details align="center">
 <summary> ${\textsf{\color{#803d29}⋆ ──ㅤclick me}}$ </summary> as much as possible please don't copy my ponies. inspo is fine, as long as it's not exactly alike</p>
-no, i'm not new to football, i've been watching football matches with my family (mainly rma, fcb, liv, tot, mci, psg & bvb). hala madrid!
+no, i'm not new to football, i've been watching football matches with my family (mainly rma, fcb, liv, tot, mci, psg & bvb). hala madrid! </p>
 sign ata and send gimmicks for a cookie </p>
 c+h freely unless stated otherwise! </p>
 banner art does not belong to me </details>
