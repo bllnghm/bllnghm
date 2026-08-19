@@ -26,6 +26,7 @@ banner art does not belong to me </details>
 <details align="center">
 <summary> ${\textsf{\color{#9e592e}⋆ ──ㅤbyi}}$ </summary>  i am 18! so if you're below 17 please dont try to be weird with me! </p>
 i can usually come off as a bit energetic sometimes, but most of the time i'm quiet </p>
+psst github oomfs feel free to interact with me 👀 </p>
 i usually just get on to be with my friend jude or with my friendgroup 🥹🥹 but feel free to interact whenever!! i appreciate if you can w2i so i can still get back to you when i come back
 </details> 
 
