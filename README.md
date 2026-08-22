@@ -21,7 +21,7 @@
 no, i'm not new to football, i've been watching football matches with my family (mainly rma, fcb, liv, tot, mci, psg & bvb). hala madrid! </p>
 sign ata and send gimmicks for a cookie </p>
 c+h freely unless stated otherwise! </p>
-banner art does not belong to me, by crymsy on insta! </details>
+banner art does not belong to me!  </details>
 
 <details align="center">
 <summary> ${\textsf{\color{#ba8488}⋆ ──ㅤbyi}}$ </summary>  i am 18! so if you're below 17 please dont try to be weird with me! </p>
