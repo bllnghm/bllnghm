@@ -1,4 +1,16 @@
+<h3 align="center">
+  ${\textsf{\color{#9d5881}ᵈᵒ}}$ ${\textsf{\color{#a46083}ʸᵒᵘ}}$ ${\textsf{\color{#ab6785}ᵇᵉˡᶦᵉᵛᵉ}}$ ${\textsf{\color{#b27086}ᶦⁿ}}$ ${\textsf{\color{#b97587}ˡᵒᵛᵉ}}$ ${\textsf{\color{#bc7c87}ᵃᵗ}}$ ${\textsf{\color{#bf8088}ᶠᶦʳˢᵗ}}$ ${\textsf{\color{#ba8488}ˢᶦᵍʰᵗˀ}}$ <br>
+  ${\textsf{\color{#9d5881}ᵈᵒ}}$ ${\textsf{\color{#a46083}ʸᵒᵘ}}$ ${\textsf{\color{#ab6785}ᵇᵉˡᶦᵉᵛᵉ}}$ ${\textsf{\color{#b27086}ᶦⁿ}}$ ${\textsf{\color{#b97587}ᶠᵃᵗᵉˀ}}$ <br>
+</h3>
+
+<br>
+
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="judebanner4.png" width="600"></a> <br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=9d5881&width=435&lines=Im+never+too+interested+in+what+people;say+because%2C+honestly%2C++peoples+opinion;change+like+the+weather.;One+minute+you're+the+best%2C+;the+next+you're+not+ready." alt="Typing SVG" />
+</p>
+    
 <p align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=1000&color=9d5881&width=435&lines=Im+never+too+interested+in+what+people;say+because%2C+honestly%2C++peoples+opinion;change+like+the+weather.;One+minute+you're+the+best%2C+;the+next+you're+not+ready." alt="Typing SVG" />
@@ -38,3 +50,5 @@ if you're just coming here to poke fun at me or any of my friend's interests </p
 people who support incest, pedophilia or anything alike (fiction or non-fiction) </p>
 if you're in the "protree" at the safe server 
 </details> 
+<br>
+
